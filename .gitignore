@@ -1,0 +1,9 @@
+data/
+
+src/.ipynb_checkpoints/
+
+src/__pycache__/
+
+.vscode/
+
+mclml.workspace.code-workspace
